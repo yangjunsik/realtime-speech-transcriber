@@ -7,13 +7,15 @@
 
 ## 시연 이미지
 
-<img src="screenshots/demo.png" width="800" alt="시연 이미지">
+<div align="center">
+  <img src="assets/voice-image.gif" width="800" alt="시연 이미지">
+</div>
 
 ---
 
 ## 실행 파일 다운로드
 
-[📥 실행용 zip 다운로드](https://github.com/yangjunsik/realtime-speech-transcriber/releases/latest/download/realtime-speech-transcriber.zip)
+[📥 다운로드](https://github.com/yangjunsik/realtime-speech-transcriber/releases/latest/download/Audio.Recorder.zip)
 
 ---
 
